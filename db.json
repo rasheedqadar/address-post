@@ -1,0 +1,73 @@
+{
+  "data": {
+    "RESULTS": {
+      "CONTEXT_E": "Results",
+      "CONTEXT_F": "Résultats",
+      "RETURNED": "363",
+      "UNIT_GROUP": [
+        {
+          "CONCORDANCE_NUMBER": [
+            {
+              "ENGLISH": {
+                "CONCORDANCE_TITLE": "helper, teacher's",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201143084"
+              },
+              "FRENCH": {
+                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201187424"
+              },
+              "NUMBER": "1"
+            },
+            {
+              "ENGLISH": {
+                "CONCORDANCE_TITLE": "aide, teacher's",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201117181"
+              },
+              "FRENCH": {
+                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201187424"
+              },
+              "NUMBER": "1"
+            }
+          ],
+          "UNIT_CODE": "4413"
+        },
+        {
+          "CONCORDANCE_NUMBER": [
+            {
+              "ENGLISH": {
+                "CONCORDANCE_TITLE": "helper, teacher's",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201143084"
+              },
+              "FRENCH": {
+                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201187424"
+              },
+              "NUMBER": "1"
+            },
+            {
+              "ENGLISH": {
+                "CONCORDANCE_TITLE": "aide, teacher's",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201117181"
+              },
+              "FRENCH": {
+                "CONCORDANCE_TITLE": "aide-enseignant/aide-enseignante",
+                "EXAMPLE_IND": "0",
+                "RECORD_ID": "201187424"
+              },
+              "NUMBER": "1"
+            }
+          ],
+          "UNIT_CODE": "4414"
+        }
+      ]
+    }
+  }
+}
